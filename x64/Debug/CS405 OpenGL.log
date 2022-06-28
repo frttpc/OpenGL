@@ -1,0 +1,73 @@
+﻿  main.cpp
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\Model3D.hpp(36,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\GameObj3D.hpp(321,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\GameObj3D.hpp(321,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\GameObj3D.hpp(321,62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\ParametricLine.hpp(30,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\ParametricLine.hpp(43,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(66,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(83,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(104,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(109,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(109,32): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(110,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(110,32): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(132,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\parametric-3d\Parametric3DShape.hpp(134,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\Mouse.hpp(27,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\Mouse.hpp(28,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\Keyboard.hpp(107,9): warning C4551: function call missing argument list
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\HUD.hpp(15,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\HUD.hpp(16,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\HUD.hpp(17,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\HUD.hpp(18,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(62,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(71,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(79,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(86,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(87,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(94,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(95,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(102,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(103,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(110,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(111,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(118,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(119,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(126,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(127,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(134,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(135,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(142,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(143,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(162,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(168,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(174,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(180,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(186,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(192,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(198,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(204,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(210,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(216,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(222,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(229,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(236,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(243,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(251,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(259,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(340,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(341,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(346,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(350,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(354,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(355,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(358,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(405,29): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(405,25): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(411,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\main.cpp(418,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS405 OpenGL.vcxproj -> C:\Users\Fırat\Desktop\FIRAT\Ders\CS405\CS405 OpenGL\x64\Debug\CS405 OpenGL.exe
